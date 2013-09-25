@@ -1,7 +1,10 @@
+html, body {
+  height: 100%;
+}
+
 body {
   padding-bottom: 20px;
   border-right: 10px solid #CC952F;
-  height: 100%;
 }
 .title {
   display: block;
