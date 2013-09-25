@@ -1,8 +1,0 @@
----
-s3_id: AKIAJEW36RSLVD6Z5VVQ
-s3_secret: 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
-s3_bucket: www.teddyknox.com
-# max_age:
-#   assets/*: 6000
-#   '*': 300
-cloudfront_distribution_id: E29T57C7DP54VE
