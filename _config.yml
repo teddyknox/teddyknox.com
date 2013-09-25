@@ -1,0 +1,4 @@
+name: Teddy Knox
+markdown: redcarpet
+pygments: true
+exclude: Gemfile, Gemfile.lock, README.md, s3_website.yml

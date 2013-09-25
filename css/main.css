@@ -1,0 +1,94 @@
+body {
+  padding-bottom: 20px;
+  border-right: 10px solid #CC952F;
+  height: 100%;
+}
+.title {
+  display: block;
+  line-height: 1.2em;
+}
+
+.title a {
+  color: black;
+}
+
+.title a:hover span {
+  background-color: #E3E3E3;
+}
+
+.title span {
+  background-color: #E8E8E8;
+  display: inline;  
+  padding: 0 4px;
+}
+@media only screen and (min-width : 992px) {
+  .title, .contact {
+    text-align: right;  
+  }
+}
+
+.contact a {
+  color: #8085C1;
+}
+
+.content {
+  margin-top: 12px;
+}
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+  /*padding-left: 0;*/
+}
+
+ul.posts li {
+  /*line-height: 1.75em;*/
+  /*font-size: 1.3em;*/
+}
+
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+}
+
+ul.posts img {
+  background-color: #CC952F;
+  width: 64px;
+  height: 64px;
+}
+
+/* standard 
+.post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+.post ul, .post ol {
+  margin-left: 1.35em;
+}
+
+.post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .2em;
+}
+
+.post pre code {
+  border: none;
+}
+
+/* terminal */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+}
+
+.post pre.terminal code {
+  background-color: #333;
+}
+
+.img-header {
+  margin-bottom: 12px;
+}
