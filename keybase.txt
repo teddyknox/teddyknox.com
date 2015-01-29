@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/teddy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://teddyknox.com
+  * I am teddy (https://keybase.io/teddy) on keybase.
+  * I have a public key with fingerprint 0100 E5E7 720B 4DC3 5481  D5AD 9B22 16C4 7740 CE8D
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "0100e5e7720b4dc35481d5ad9b2216c47740ce8d",
+            "host": "keybase.io",
+            "key_id": "9b2216c47740ce8d",
+            "uid": "8a1b4b3741908c09eb8fb9ad8349fe00",
+            "username": "teddy"
+        },
+        "service": {
+            "hostname": "teddyknox.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397369772,
+    "expire_in": 157680000,
+    "prev": "512a64a071a43c2d595651695de2fb04b807e9aeef83811e0b8f61b15856cf0f",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.5
+Comment: https://keybase.io/crypto
+
+yMHjAnicbVFvSFNdGJ+ZQxdG+CWhesGTvkaOce7u/1EWYgpSUK0SU5z3z7nzsrx3
+3d0tzcQiJvSKhYGRb0RUGBJWK7ISsWaJgk4hKCPKD2FFglCpSKWh50pBHzpfDuf3
+73me8wykJ9scSbe/ds7s2WWUJ43EP4dt3pK8rnog6nId8NSDAFq5FFXzIyNoqJoJ
+PAASECIasawbipQskTTFETItyLzodhOMRLEsBSXEycAJqvWQ5cAxohBCLlXHGH74
+VBmjf9GHVwhOIERKJFmK4CEnQR6JnCLygsyRFK8gCC1hCBmaUIOw2kQybrbBCTAU
+USUM1a/U/ZMOaHqtS9JrsDNo6KYu6UcwVW2aQY/lNOuClvQYEn2/Qnyiqsl4amyI
+ICOk6hrwEFgpmaqVSpA8SzI8/gInQLVB1UA+1VLQLMNBfKwyKIIjacItMJQAWUKg
+SMkt0zzN0ATD0zJyKyKkRA6yiBcQUjiSIwgE8agMIRI0RzOSAhVcP4SOajrwkLhN
+wY8jQ6pfE8ywgUDD03jFaluSw2ZPWWXtzeZIW/d7m4Yz1RbPnO6LvykY7q3szxx0
+ZS+onU39hU1qz0NHUN77fGK3eDW3saXKn/di/f1A+3ija/KADVaUnnv76eNBsLF7
+/vvIRWFq22yssHXNvyVlMycK7oBmdPNbTzE9wUkDXf9cGz2V0Xs8MbZ2Yf/sUsbj
+3LuLk+PXhw6hS8UPtqRH+srzlU1L7TcirumofeuTlsTl7affe/NNYuzWl46Jl4P3
+zuwYmYxeKf0xsPjfXCBWVhRti4Z/drceTr5QUXuyrcMXy5ou31ycktj3/7DZ3Zyz
+E3o7Zpm5qXGPmJr1aHTofM4GcHb+Q9HUqLeykyyLvUvrMXsTbNWrcHv2a/szjz25
+axkxxBlQ
+=1+1Q
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/teddy
+
+==================================================================

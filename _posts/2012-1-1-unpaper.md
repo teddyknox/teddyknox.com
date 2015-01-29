@@ -3,8 +3,8 @@ layout: post
 title: Cleaning up patchy book scans with Unpaper
 date: 2010-12-03 10:20
 categories: how-to
+thumb: unpaper-thumb.jpg
 tags: pdf, osx, command-line
-slug: unpaper
 excerpt: Save yourself toner by using this command-line program to remove the big black bars from the sides of pdf scans.
 ---
 

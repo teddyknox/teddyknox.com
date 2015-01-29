@@ -4,21 +4,19 @@ title: Knox Blog
 ---
 
 <div id="home">
-  <h3>Writing</h3>
+  <div class="index-title-wrapper"><span class="h3 box">Writings</span></div>
   <ul class="posts">
     {% for post in site.posts %}
-      <li class="media">
-        <a class="pull-left" href="{{ post.url }}">
+      <li class="box" data-date="{{ post.date}}">
+<!--         <a class="pull-left box" href="{{ post.url }}">
           <img class="media-object" {% if post.thumb %} src="{{ site.url }}/img/{{ post.thumb }}" {% endif %} />
-        </a>
-        <div class="media-body">
-          <h4 class="media-heading"><a href="{{ post.url }}">{{ post.title }}</a></h4>
-          <p class="media-excerpt">
+        </a> -->
+          <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          <small class="date text-muted">{{ post.date | date_to_string }}</small>
+          <p>
             {{ post.excerpt }}
           </p>
-        </div>
       </li>
-      <!-- <span>{{ post.date | date_to_string }}</span> -->
     {% endfor %}
   </ul>
 </div>

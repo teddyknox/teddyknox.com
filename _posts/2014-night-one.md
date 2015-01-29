@@ -1,0 +1,16 @@
+---
+layout: post
+title: "What I'm doing right now"
+categories: personal
+excerpt: A monday night blog post
+---
+
+Today I woke up on the loveseat in Will Moore's apartment near central square. I had made a bed out of it for two nights by rotating the automan longways and stacking pillows at the end of that. I'm getting accustomed to the process of visiting friends in other cities. After packing, I worked at a table of my own in a busy nearby coffee shop. The shop was narrow and long, with little tables stretching towards the back, but with all of the occupants of the tables facing outwards towards the street. Not a lot of conversation in there. There was a girl sitting in front of me reading a self-help book. I wanted to ask her about it, but didn't. Nobody else was talking, and I didn't want to disturb hers or anyone else's quiet.
+
+On the bus back up to burlington I slept in a funny pose, and listened to Dan Carlin's Hardcore History podcast about the first world war. I didn't think much about anything otherwise -- I'm coming back up to Burlington to face my last few weeks of Rocket work. It's a little depressing, especially since these are the last few days of my last summer vacation.
+
+The bus dropped me off at UVM, and I walked down to my room on Pine St., suppressing a sense of dread. I'm not especially happy living or working here. I don't have friends, and I feel it wouldn't be worth it to make any before school starts again.
+
+I took a taxi to the airport to pick up my jeep. After some conversation, the driver told me that he had just gotten out of jail for hash smuggling, which for some reason made me a little nervous. He said he'd been in there for 18 years. I asked him how it was like to do work like that, and he answered with understandable remorse at the downsides of his old lifestyle (aside from the jailtime). The worst, he told me, was the secrecy involved, which pushed you towards introversion, since you couldn't talk about what you did with anyone.
+
+I went for a run later, and had an idea. It would require that I talk with people, and it would help them out a bit, and it would play to my interests in photography and web programming. The idea is to walk around in public spaces on pretty days with a camera, and ask people if they'd like their picture taken. If so, I'd take their picture, then hand them a business card and ask them for their facebook names to tag them in the photos later. After doing this for a little while, I might put together a facebook app that requires people to fill out a short survey to be tagged in photo on facebook. I'd ask in the survey how they'd feel about paying a few cents per tag. If the results were promising, I'd set up a facebook purchasing situation where the people I take pictures of pay a dollar for each picture they like enough to be tagged in. Maybe during the picture taking I might run into some photographers themselves and recruit them into the project. Supposing I take 32 purchasable pictures per hour, and then spend an hour processing the photos and uploading them, and then every one is purchased for $1, I'd be making $16 an hour. Not bad. I'm not doing this for the money though, I think it would be fun either way.

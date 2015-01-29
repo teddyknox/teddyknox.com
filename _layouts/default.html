@@ -3,45 +3,53 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <link rel="shortcut icon" href="/favicon.ico"/>
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+        <!-- <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"> -->
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Open+Sans:400,600/">
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
-
+        <link rel="stylesheet" type="text/css" href="/css/syntax.css">
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
 
     </head>
     <body>
-        <div class="container">
-          <div class="header col-md-3">
-            <h2 class="title"><a href="/"><span>Teddy</span><br/><span>Knox</span></a></h2>
-            <div class="contact">
-              <p>
-                Student at<br /><strong>Middlebury College</strong><br />
-              </p>
-              <p>
-                Co-Founder of <br/><strong>Rocket Listings</strong><br/>
-              </p>
+        <div class="site container">
+          <div class="col-md-4 col-md-push-8">
+            <div class="header box">
+              <h3><a href="/">Teddy Knox</a></h3>
+              <div class="row">
+                <div class="col-xs-6 byline">
+                  <p>
+                    CS Student at<br /><strong>Middlebury College</strong><br />
+                  </p>
+                  <p>
+                    Co-Founder of<br/><strong>Rocket Listings</strong><br/>
+                  </p>
+                </div>
+                <div class="col-xs-6">
+                  <ul class="contact">
+                    <li><a class="spectrum-6" href="mailto:teddyknox@gmail.com">teddyknox@gmail.com</a></li>
+                    <li><a class="spectrum-5" href="http://photos.teddyknox.com">photos.teddyknox.com</a></li>
+                  </ul>
+                  <ul class="social">
+                    <li><a class="spectrum-4" href="https://github.com/teddyknox">github.com/teddyknox</a></li>
+                    <li><a class="spectrum-3" href="https://twitter.com/teddyknox">twitter.com/teddyknox</a></li>
+                    <li><a class="spectrum-2" href="https://www.facebook.com/tedknox">facebook.com/tedknox</a></li>
+                    <li><a class="spectrum-1" href="https://www.linkedin.com/in/teddyknox/">linkedin.com/in/teddyknox</a></li>
+                  </ul>
+                </div>
+              </div>
             </div>
-            <div class="contact">
-              <p>
-                <a href="mailto:teddyknox@gmail.com">teddyknox@gmail.com</a><br />
-                <a href="https://github.com/teddyknox">github.com/teddyknox</a><br />
-                <a href="https://twitter.com/teddyknox">twitter.com/teddyknox</a><br />
-              </p>
-            </div>
-            <div class="contact">
-              
-              <a href="{{ site.url }}/" title="home">Home</a>
-            </div>
-          </div>
-          <div class="content col-md-9">
+          </div>          
+          <div class="content col-md-8 col-md-pull-4">
             {{ content }}
           </div>
-        </div>
+        </div>        
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/js/bootstrap.min.js"></script>
+        <script src="/js/retina-1.1.0.min.js"></script>
     </body>
 </html>
